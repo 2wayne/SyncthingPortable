@@ -27,6 +27,11 @@
 on your system in [the etc directory][3]. There are also several [GUI
 implementations][11] for Windows, Mac and Linux.
 
+## Vote on features/bugs
+
+We'd like to encourage you to [vote][12] on issues that matter to you.
+This helps the team understand what are the biggest pain points for our users, and could potentially influence what is being worked on next.
+
 ## Getting in Touch
 
 The first and best point of contact is the [Forum][8]. There is also an IRC
@@ -66,4 +71,5 @@
 [9]: https://kiwiirc.com/client/irc.freenode.net/#syncthing
 [10]: https://github.com/syncthing/syncthing/issues
 [11]: http://docs.syncthing.net/users/contrib.html#gui-wrappers
+[12]: https://www.bountysource.com/teams/syncthing/issues
 
